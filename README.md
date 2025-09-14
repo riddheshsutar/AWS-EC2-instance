@@ -91,5 +91,7 @@ pm2 save
 ## Step 8: Access Your Application
 Visit `http://your-ec2-public-ip` in a browser.
 
+<img width="1529" height="424" alt="Screenshot 2025-09-14 111512" src="https://github.com/user-attachments/assets/a54e65df-8b3b-4b23-bbaf-3e47031b15c7" />
+
 ## Conclusion
 Your application is now live on AWS EC2! 🎉 For production, consider using **Elastic Load Balancing (ELB)** and **Auto Scaling** for better scalability.
